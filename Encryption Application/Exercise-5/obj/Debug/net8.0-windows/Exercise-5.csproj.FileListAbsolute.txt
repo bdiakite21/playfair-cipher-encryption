@@ -1,0 +1,16 @@
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise_5.Form1.resources
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.csproj.GenerateResource.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.AssemblyInfoInputs.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.AssemblyInfo.cs
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.csproj.CoreCompileInputs.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\bin\Debug\net8.0-windows\Exercise-5.exe
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\bin\Debug\net8.0-windows\Exercise-5.deps.json
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\bin\Debug\net8.0-windows\Exercise-5.runtimeconfig.json
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\bin\Debug\net8.0-windows\Exercise-5.dll
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\bin\Debug\net8.0-windows\Exercise-5.pdb
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.dll
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\refint\Exercise-5.dll
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.pdb
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\Exercise-5.genruntimeconfig.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-5\Exercise-5\obj\Debug\net8.0-windows\ref\Exercise-5.dll
